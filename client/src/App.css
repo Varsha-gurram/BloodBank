@@ -1,0 +1,24 @@
+
+.pleasant-bg {
+  background-color: #F4FAFF !important;
+}
+
+.pleasant-card {
+  background-color: #FFFFFF !important;
+  border: 1px solid #CBD5E1;
+}
+
+.pleasant-title {
+  color: #3182CE;
+}
+
+.pleasant-btn {
+  background-color: #4FD1C5 !important;
+  color: #2D3748 !important;
+  border: none;
+}
+
+.pleasant-btn:hover, .pleasant-btn:focus {
+  background-color: #38B2AC !important;
+  color: #FFFFFF !important;
+}
